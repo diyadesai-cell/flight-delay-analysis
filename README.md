@@ -29,5 +29,18 @@ day of week, departure time, and flight length.
 3. Open `flight_delay_analysis.ipynb` in Jupyter
 4. Run all cells
 
+## MODEL IMPROVEMENT IDEAS 
+
+Current Model : Logistic Regression — Accuracy 63%
+
+To improve further:
+1. Try Random Forest — handles non-linear patterns better
+2. Add weather data as a feature
+3. Add airport congestion data
+4. Use feature scaling with StandardScaler
+5. Try SMOTE for better handling of class imbalance
+
+These improvements could potentially push accuracy to 75-80%
+
 ## 👤 Author
 Diya Desai — BSc Data Science
