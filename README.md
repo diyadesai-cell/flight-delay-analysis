@@ -30,4 +30,4 @@ day of week, departure time, and flight length.
 4. Run all cells
 
 ## 👤 Author
-Your Name — BSc Data Science
+Diya Desai — BSc Data Science
